@@ -1,0 +1,9 @@
+torch
+torchvision==0.2.1
+scikit-image
+pytest==5.4.1
+pycodestyle
+opencv-python
+future==0.18.2
+tensorboardX
+# --extra-index-url https://developer.download.nvidia.com/compute/redist/cuda/10.0 nvidia-dali==0.10.0
